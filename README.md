@@ -1,6 +1,6 @@
-# Trinity Church Seattle
 
-## Policies
 
-### [HR](hr/policies)
-### [Compensation](compensation/policies)
+## Documentation
+
+### [HR Policies](hr/policies)
+### [Compensation Policies](compensation/policies)
